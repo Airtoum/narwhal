@@ -1,7 +1,9 @@
 public class Test{
  
   public static void main(String[] args){
-   System.out.println("39 + 3");  //It prints "393"
-   System.out.println(39 + 3);    //It prints 42
+   System.out.print("Hello");  //It prints "Hello"
+   System.out.println("World");    //It prints "World" on the same line as "Hello"
+   
+   //Result is a line with text "HelloWorld"
   }
 }
